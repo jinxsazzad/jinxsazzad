@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQHhxOdZ5dTTFg/profile-displaybackgroundimage-shrink_350_1400/0/1687194532028?e=1692835200&v=beta&t=OFP99pqNods0rlP1WWe6e4TpQRsCZ1TnoMXMgLuPBt0)
 
 <h1 align="center">Hi 👋, I'm Sazzad</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://ibb.co/D5zVcVR" />
 
 
