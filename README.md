@@ -32,4 +32,4 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left" src="https://github-profile-trophy.vercel.app/?username=jinxsazzad" alt="jinxsazzad" /></a> </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinxsazzad&show_icons=true&locale=en&layout=compact" alt="jinxsazzad" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jinxsazzad&show_icons=true&locale=en" alt="jinxsazzad" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jinxsazzad&" alt="jinxsazzad" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jinxsazzad&" alt="jinxsazzad" /></p>
