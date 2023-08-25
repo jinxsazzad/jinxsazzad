@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*f3Jrn27ggVFkwy9fw_ExOg.jpeg)]()
 <h1 align="center">Hi 👋, I'm Sazzad</h1>
 <h3 align="center">A passionate Web Developer from Noakhali, Bangladesh</h3>
-<img align="right" alt="Coding" width="510" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinxsazzad&label=Profile%20views&color=0e75b6&style=flat" alt="jinxsazzad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/jinx_sazzad" target="blank"><img src="https://img.shields.io/twitter/follow/jinx_sazzad?logo=twitter&style=for-the-badge" alt="https://twitter.com/jinx_sazzad" /></a> </p>
